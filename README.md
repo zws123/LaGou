@@ -1,0 +1,3 @@
+# LaGou
+initial commit
+使用selenium爬取使用javascript动态渲染页面拉勾网的爬虫职位信息，使用pyquery进行解析，并保存到mongodb.
